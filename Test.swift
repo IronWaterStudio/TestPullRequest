@@ -9,7 +9,6 @@
 import Foundation
 
 struct Player {
-    var name: String
     var highScore: Int = 0
     var history: [Int] = []
     
