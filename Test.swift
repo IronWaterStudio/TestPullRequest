@@ -17,5 +17,3 @@ struct Player {
         self.name = name
     }
 }
-
-var player = Player("Tomas")
