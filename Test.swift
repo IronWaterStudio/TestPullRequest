@@ -8,6 +8,7 @@
 
 import Foundation
 
+// resolved
 struct Player {
     var name: String
     var highScore: Int = 0
